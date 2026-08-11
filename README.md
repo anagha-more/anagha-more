@@ -37,7 +37,7 @@ Interactive dashboard for exploring LEGO sets across different years, themes, co
 - Product-level exploration
 - Interactive slicers and navigation
 
-🔗 [View Project](YOUR_GITHUB_PROJECT_LINK)
+🔗 [View Project](https://github.com/anagha-more/Power_BI_LEGO_Explorer)
 
 ---
 
@@ -54,7 +54,7 @@ Interactive sales and profitability dashboard for a multinational grocery chain 
 - Geographic analysis
 - Bookmarks and interactive navigation
 
-🔗 [View Project](YOUR_GITHUB_PROJECT_LINK)
+🔗 [View Project](https://github.com/anagha-more/Power_BI_Maven_Market_Data_Analysis)
 
 ---
 
