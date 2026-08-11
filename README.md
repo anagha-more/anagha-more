@@ -2,7 +2,8 @@
 
 ### Data Analyst | Power BI | SQL | Python
 
-I am a Data Analyst with 3+ years of experience in data analysis and reporting, with hands-on experience working with large datasets and building interactive dashboards.
+"Data tells a story — I like finding it."
+<br>I am a Data Analyst with 3+ years of experience in data analysis and reporting, with hands-on experience working with large datasets and building interactive dashboards.
 
 I enjoy transforming raw data into meaningful insights and building solutions that support data-driven decision making.
 
