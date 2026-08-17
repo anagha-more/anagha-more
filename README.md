@@ -36,7 +36,7 @@ Microsoft Excel | Advanced Excel
   <br><i>Interactive dashboard for exploring LEGO sets across different years, themes, countries, and price ranges.</i>
   <br>🔗 [View Project](https://github.com/anagha-more/Power_BI_LEGO_Explorer)
 - 🛒 Maven Market Analysis
-  <br><i>Interactive sales and profitability dashboard for a multinational grocery chain operating across Canada, Mexico, and the United States.
+  <br><i>Interactive sales and profitability dashboard for a multinational grocery chain operating across Canada, Mexico, and the United States.</i>
   <br>🔗 [View Project](https://github.com/anagha-more/Power_BI_Maven_Market_Data_Analysis)
 
 3) SQL Portfolio project
@@ -50,7 +50,7 @@ Microsoft Excel | Advanced Excel
 
 ## 📫 Connect With Me
 
-🔗 [LinkedIn](YOUR_LINKEDIN_LINK)
+🔗 [LinkedIn](https://www.linkedin.com/in/anagha-more-897791351/)
 
 📧 Email: more.anagha.v@gmail.com | moreanagha02@gmail.com
 
