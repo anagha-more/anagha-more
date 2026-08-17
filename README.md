@@ -41,7 +41,7 @@ Microsoft Excel | Advanced Excel
 
 3) SQL Portfolio project
 <br><i>-Restaurant Operations Analysis using SQL to analyze orders, menu items, and sales performance.</i>
-<>br🔗 [View Project](https://github.com/anagha-more/SQL-Restaurant_Operations_Analysis)
+<br>🔗 [View Project](https://github.com/anagha-more/SQL-Restaurant_Operations_Analysis)
 
 4) Python Data Analysis Project
 <br><i>-Coffee Production Analysis using Python, Pandas, and data visualization to explore production trends across countries.</i>
