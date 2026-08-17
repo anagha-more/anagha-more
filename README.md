@@ -27,49 +27,26 @@ Microsoft Excel | Advanced Excel
 
 ## 📊 Featured Projects
 
-### 🧱 LEGO Sets Explorer – Power BI
+1) Professional Analytical work
+<br><i>- Selected real-world analytics projects from my professional experience, covering data management, analysis, reporting, and visualization.</i>
+<br>🔗 [View Project](https://github.com/anagha-more/Professional_Analytical_work)
 
-Interactive dashboard for exploring LEGO sets across different years, themes, countries, and price ranges.
+2) Power BI Portfolio Projects
+- 🧱 LEGO Set Explorer
+  <br><i>Interactive dashboard for exploring LEGO sets across different years, themes, countries, and price ranges.</i>
+  <br>🔗 [View Project](https://github.com/anagha-more/Power_BI_LEGO_Explorer)
+- 🛒 Maven Market Analysis
+  <br><i>Interactive sales and profitability dashboard for a multinational grocery chain operating across Canada, Mexico, and the United States.
+  <br>🔗 [View Project](https://github.com/anagha-more/Power_BI_Maven_Market_Data_Analysis)
 
-**Key Features:**
-- Interactive price range parameter
-- Dynamic metric selection
-- Year and theme analysis
-- Product-level exploration
-- Interactive slicers and navigation
+3) SQL Portfolio project
+<br><i>-Restaurant Operations Analysis using SQL to analyze orders, menu items, and sales performance.</i>
+<>br🔗 [View Project](https://github.com/anagha-more/SQL-Restaurant_Operations_Analysis)
 
-🔗 [View Project](https://github.com/anagha-more/Power_BI_LEGO_Explorer)
+4) Python Data Analysis Project
+<br><i>-Coffee Production Analysis using Python, Pandas, and data visualization to explore production trends across countries.</i>
+<br>🔗 [View Project](https://github.com/anagha-more/PYTHON_Coffee_Production_Project2)
 
----
-
-### 🛒 Maven Market – Power BI
-
-Interactive sales and profitability dashboard for a multinational grocery chain operating across Canada, Mexico, and the United States.
-
-**Key Features:**
-- Sales, revenue, profit and return analysis
-- Store, membership and region-wise profitability
-- Monthly performance trends
-- Current-month vs previous-month performance
-- Brand-level drillthrough
-- Geographic analysis
-- Bookmarks and interactive navigation
-
-🔗 [View Project](https://github.com/anagha-more/Power_BI_Maven_Market_Data_Analysis)
-
----
-
-## 📈 What I Work With
-
-- Data Cleaning & Transformation
-- Data Modeling
-- DAX & Business Calculations
-- Dashboard Development
-- Exploratory Data Analysis
-- SQL Data Analysis
-- Business Reporting
-
----
 
 ## 📫 Connect With Me
 
